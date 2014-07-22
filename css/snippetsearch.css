@@ -1,0 +1,149 @@
+body{
+  font-family: 'Syncopate', sans-serif;
+}
+
+.wrap2{
+  font-size:80px;
+  color:#000;
+  margin:150px 30px 200px;
+  position:relative
+}
+
+.wrap2 span{
+  display:inline-block
+}
+
+.wrap2-inner1, .wrap2-inner2{
+  position:relative
+}
+
+.wrap2-inner1{
+  font-size:200%;
+}
+
+.wrap2-inner2{
+  font-size:120%;
+}
+
+.wrap2-inner1 .s{
+  position:relative;
+  z-index:100;
+  color:#8B8786;
+  font-weight:700
+}
+
+.wrap2-inner1 .search1{
+position:relative;
+transform:rotate(180deg);
+-ms-transform:rotate(180deg); /* IE 9 */
+-webkit-transform:rotate(180deg); /* Opera, Chrome, and Safari */ 
+}
+
+.wrap2-inner1 .s1{
+position:relative;
+top:-0.27em;
+left:-1.55em;
+}
+
+.wrap2-inner2 span{
+  display:block
+}
+
+.wrap2-inner2 .nippet{
+  position:relative;
+  left:0.42em;
+  z-index:100;
+}
+
+.wrap2-inner1 .search2{
+position:relative;
+left:-0.75em;
+transform:rotateX(180deg);
+-ms-transform:rotateX(180deg); /* IE 9 */
+-webkit-transform:rotateX(180deg); /* Opera, Chrome, and Safari */ 
+}
+
+.wrap2-inner1 .s2{
+position:relative;
+top:-0.27em;
+left:-3.25em;
+}
+
+.wrap2-inner2 .earch{
+  position:relative;
+  top:-0.26em;
+  left:0.42em;
+  letter-spacing:0.02em;
+  z-index:100;
+}
+
+.wrap2-inner1 .search-icon{
+  z-index:10;
+  color:#d2d2d2;
+  font-size:190%;
+}
+
+.wrap1{
+  font-size:80px;
+  color:#000;
+  margin:30px;
+  position:relative;
+  letter-spacing:-.05em;
+}
+
+.wrap1 .search-icon{
+  z-index:10;
+  color:#E5E305;
+  font-size:190%;
+}
+
+.wrap1 span{
+  display:inline-block
+}
+.wrap1 .s{
+  position:relative;
+  z-index:100;
+  color:#8B8786;
+  font-weight:700
+}
+
+.wrap1 .search1{
+  position:relative;
+  transform:rotate(180deg);
+  -ms-transform:rotate(180deg); /* IE 9 */
+  -webkit-transform:rotate(180deg); /* Opera, Chrome, and Safari */ 
+}
+
+.wrap1 .s1{
+position:relative;
+top:-0.27em;
+left:-1.50em
+}
+
+.wrap1 .nippet{
+  position:relative;
+top:-0.25em;
+left:-1.45em;
+  z-index:100;
+}
+
+.wrap1 .search2{
+position:relative;
+left:-.90em;
+transform:rotateX(180deg);
+-ms-transform:rotateX(180deg); /* IE 9 */
+-webkit-transform:rotateX(180deg); /* Opera, Chrome, and Safari */ 
+}
+
+.wrap1 .s2{
+position:relative;
+top:-0.27em;
+left:-3.43em;
+}
+
+.wrap1 .earch{
+  position:relative;
+  top:-0.25em;
+  left:-3.35em;
+  z-index:100;
+}
